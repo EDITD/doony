@@ -674,12 +674,13 @@ textarea {
   margin-bottom: -2px;
 }
 
-#buildHistory .build-row:nth-child(2n) {
-  background-color: #f9f9f9;
-}
-
 #buildHistory .build-row {
   border-top: 1px solid #ddd;
+  background: white;
+}
+
+#buildHistory .build-row:nth-child(2n) {
+  background-color: #f9f9f9;
 }
 
 #buildHistory .build-row:last-child {
