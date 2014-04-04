@@ -229,7 +229,7 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary:hover,
 .btn-primary:focus,
-.btn-primary:active,
+.btn-primary:active,s
 .btn-primary.active,
 .btn-primary.disabled,
 .btn-primary[disabled] {
@@ -627,6 +627,7 @@ textarea {
 /******************* side panel styles ***********************/
 #side-panel {
   padding-left: 15px;
+  background: white url( https://github-camo.global.ssl.fastly.net/e69a2eacd5bb69fc34a668930941b6b45df7e49d/687474703a2f2f646f6f6e792e6f72672f6c6f676f736d616c6c2e706e67 ) 2% 98% no-repeat fixed;
 }
 
 #tasks {
